@@ -4,6 +4,8 @@ This little program will display a random image from a folder specified.
 
 ## How Do I use it?
 
+_note: This guide is for Linux/Mac and assumes you have docker installed. If you're running Windows, use WSL._
+
 1. Check out `app/server.js`, this is where the magic happens.
 2. Under the `Local Constants` section, change the `imageFolder` to the folder you want to display images from and the `port` to whatever port you want to use.
 3. Put the images you want to display in the folder you specified.
@@ -22,7 +24,7 @@ This little program will display a random image from a folder specified.
 
 ## Who am I?
 
-- I'm Daniel Morley, a Backend Python Developer from Melbourne, Australia. I enjoy tinkering with my home server and sometimes write small projects like this.
+- I'm Daniel Morley, a Backend Python Developer from Melbourne, Australia. I enjoy tinkering with my home server and sometimes write small projects like this (and sometimes some larger).
 
 ## Can I modify it?
 
